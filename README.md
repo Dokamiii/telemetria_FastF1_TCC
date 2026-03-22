@@ -1,0 +1,1 @@
+# telemetria_FastF1_TCC
